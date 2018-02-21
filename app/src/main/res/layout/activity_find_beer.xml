@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="16dp"
-        android:text="Button" />
+        android:text="@string/find_beer" />
 
     <TextView
         android:id="@+id/brands"
@@ -29,6 +29,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="16dp"
-        android:text="This is a text view" />
+        android:text="@string/brands" />
 
 </LinearLayout>
